@@ -34,3 +34,4 @@ while comienzo >=1 :
 
 print ('Gracias por su tiempo');
 print('Saludos');
+print('fin');
